@@ -4,34 +4,23 @@ sidebar_position: 1
 
 # Despre Hadha
 
-## Prima pagina a Dariei!!!!!
+## Data si locul nasterii
 
-Let's discover **Docusaurus in less than 5 minutes**.
+20 septembrie 2021, Timisoara **din parinti cu pedigree**.
 
-## Getting Started
+De la ce vine numele Hadha? Noi ii zicem Hada... De la ce?
+De la localitatea in care am luat aurul: Hajdu**hadha**z
 
-Get started by **creating a new site**.
+## Cum de o am?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Cum de o am? Simplu. Doar a trebuit sa le bat pe toate unguroaicele si asa m-am trezit cu o catelusa
+Intorcandu-ne acasa, in dreptul Timisoarei, m-am uitat pe olx... **si cum tati mi-a promis ca daca iau aur... aur am luat!**.
 
-## Generate a new site
+## Drumul spre casa
 
-Generate a new Docusaurus site using the **classic template**:
+Pana acasa a fost foarte cuminte. A dormit tot drumul pe mine si... **nu a facut deloc pipi pe mine**:
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+## Vrei sa vezi cum creste Hada?
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+Simplu. Acceseaza zilnic linkul https://dariastt.github.io/myhusky/ sau... **mai simplu...** vino pe Viscolului, 81C.
+Nu la intamplare un husky sta pe Viscolului. Nu l-as fi luat daca stateam pe Soarelui
